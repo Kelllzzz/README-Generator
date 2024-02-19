@@ -1,4 +1,4 @@
-const inquirer = require("inquirer");
+import inquirer from 'inquirer';
 const fs = require("fs");
 const path = require('path');
 const generateMarkdown = require("./utils/generateMarkdown");
@@ -44,13 +44,18 @@ inquirer.prompt(questions).then(answers => {
     const badge = answers.license.toLowerCase().replace(/ /g, '-');
     const readmeContent = generateMarkdown(answers);
 
+    fs.writeFile('README.md', readmeContent, err => {
+        if (err) throw err;
+        console.log('README.md has been created!');
+    });
+});
 
 
-// function to initialize program
-function init() {
+// // function to initialize program
+// function init() {
 
-}
+// }
 
-// function call to initialize program
-init();
-})
+// // function call to initialize program
+// init();
+// })
