@@ -59,7 +59,7 @@ ${answers.installation}
 ${answers.usage}
 
 
-## Credits/Collaborators
+## Credits
 ${answers.credits}
 
 
