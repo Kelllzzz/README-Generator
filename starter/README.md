@@ -1,8 +1,9 @@
-# joirmmttt
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# Read Me Generator
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
 
 ## Description
-klopii
+It generates a read me for your project
 
 
 ## Table of Contents
@@ -17,29 +18,30 @@ klopii
 
 
 ## Installation
-toklpot
+n/a
 
 
 ## Usage
-lckdkdkdd
+addding screenshot
 
 
 ## Credits / Collaborators
-kkdkdkd
+N/a
 
 
 ## License
-This project is licensed under the Mozilla Public license 2.0 license.
+This project is licensed under the GNU AGPLv3 license.
 
 
 ## Contributing
-lfooffdf
+just create a branch and go ahead
 
 
 ## Tests
-olpoe
+open in a intergrated terminal
 
 
 ## Questions
-If you have any questions, you can reach me at odoodpppdpploio.
-You can also view my GitHub profile [here](https://github.com/ododpe).
+If you have any questions, you can reach me at kellakhigbe@gmail.com.
+
+You can also view my GitHub profile [here](https://github.com/kelllzzz).
