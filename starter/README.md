@@ -1,16 +1,16 @@
-# Read Me Generator
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# hshdfhsdfds
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 ## Description
-It generates a read me for your project
+ugdshksdjhjds
 
 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits/Collaborators](#credits)
+- [Credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -18,30 +18,30 @@ It generates a read me for your project
 
 
 ## Installation
-n/a
+'gSDFHGSDHGF'KH
 
 
 ## Usage
-addding screenshot
+JSDDGFHGD
 
 
-## Credits / Collaborators
-N/a
+## Credits/Collaborators
+JHDFGHDGHJ
 
 
 ## License
-This project is licensed under the GNU AGPLv3 license.
+This project is licensed under the GNU GPLv3 license.
 
 
 ## Contributing
-just create a branch and go ahead
+JDHDSJFHDS
 
 
 ## Tests
-open in a intergrated terminal
+BJDSBDJBD
 
 
 ## Questions
-If you have any questions, you can reach me at kellakhigbe@gmail.com.
+If you have any questions, you can reach me at BJDDJHDJHDJHD.
 
-You can also view my GitHub profile [here](https://github.com/kelllzzz).
+You can also view my GitHub profile [here](https://github.com/NDJBDJHBDS).

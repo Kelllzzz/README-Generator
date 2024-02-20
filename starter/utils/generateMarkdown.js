@@ -44,7 +44,7 @@ ${answers.description}
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits/Collaborators](#credits)
+- [Credits](#credits)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
