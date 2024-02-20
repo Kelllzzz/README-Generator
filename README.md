@@ -3,7 +3,7 @@
 
 
 ## Description
-This Readme generator was designed for generating read me. It functions by generating a read me based on the user's input.
+This Readme generator was designed for creating a readme file. It functions by generating a read me based on the user's input.
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ N/A
 
 
 ## Usage
-![Video link](https://github.com/Kelllzzz/README-Generator/assets/117757450/28a9f298-3367-4345-b720-24072700c8e0)
+[Video link](https://github.com/Kelllzzz/README-Generator/assets/117757450/28a9f298-3367-4345-b720-24072700c8e0)
 
 
 ## Credits
