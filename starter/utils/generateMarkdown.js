@@ -58,7 +58,7 @@ ${answers.usage}
 ${answers.credits}
 
 ## License
-${answers.license}
+I am using ${answers.license}
 
 ## Contributing
 ${answers.contributing}

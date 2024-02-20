@@ -59,8 +59,7 @@ const questions = [
 inquirer.prompt(questions).then(answers => {
 
     const readmeContent = generateMarkdown(answers);
-    console.log (readmeContent)
-
+    
     fs.writeFile('README.md', readmeContent, err => {
 if (err) {
     console.log('Please input all answers')
@@ -68,13 +67,3 @@ if (err) {
         console.log('Your README.md has been created!');
     });
 });
-
-
-// // function to initialize program
-// function init() {
-
-// }
-
-// // function call to initialize program
-// init();
-// })
