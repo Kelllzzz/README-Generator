@@ -21,7 +21,7 @@ function generateMarkdown(answers) {
   if (answers.license === "GNU LGPLv3") {
     badge = "[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)";
   }
-  if (answers.license === "Mozilla Public License 2.0") {
+  if (answers.license === "Mozilla Public license 2.0") {
     badge = "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
   }
   if (answers.license === "The Unlicense") {
@@ -35,8 +35,10 @@ function generateMarkdown(answers) {
   return `# ${answers.title}
 ${badge}
 
+
 ## Description
 ${answers.description}
+
 
 ## Table of Contents
 - [Description](#description)
@@ -48,26 +50,35 @@ ${answers.description}
 - [Tests](#tests)
 - [Questions](#questions)
 
+
 ## Installation
 ${answers.installation}
+
 
 ## Usage
 ${answers.usage}
 
+
 ## Credits / Collaborators
 ${answers.credits}
 
+
 ## License
-I am using ${answers.license}
+This project is licensed under the ${answers.license} license.
+
 
 ## Contributing
 ${answers.contributing}
 
+
 ## Tests
 ${answers.tests}
 
+
 ## Questions
-${answers.questions}
+If you have any questions, you can reach me at ${answers.email}.
+
+You can also view my GitHub profile [here](https://github.com/${answers.github}).
 `;
 }
 

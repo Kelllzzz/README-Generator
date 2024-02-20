@@ -1,8 +1,9 @@
-# jolkiee
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# joirmmttt
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 ## Description
-jsdksks
+klopii
+
 
 ## Table of Contents
 - [Description](#description)
@@ -14,23 +15,31 @@ jsdksks
 - [Tests](#tests)
 - [Questions](#questions)
 
+
 ## Installation
-dsjjdjd
+toklpot
+
 
 ## Usage
-]ekdkkkd
+lckdkdkdd
+
 
 ## Credits / Collaborators
-'kdjjdjd
+kkdkdkd
+
 
 ## License
-GNU GPLv3
+This project is licensed under the Mozilla Public license 2.0 license.
+
 
 ## Contributing
-lflflff
+lfooffdf
+
 
 ## Tests
-kdkdkdd
+olpoe
+
 
 ## Questions
-ldlldldd
+If you have any questions, you can reach me at odoodpppdpploio.
+You can also view my GitHub profile [here](https://github.com/ododpe).
